@@ -1,0 +1,37 @@
+============================================
+NEUE EMAIL-SIGNATUR — ANLEITUNG FÜR NILS
+============================================
+
+Die neue Signatur hat KEINE eingebetteten Bilder mehr
+→ Alle Bilder werden extern von GitHub geladen
+→ Kein Spam-Risiko mehr durch CID-Attachments
+
+SCHRITTE:
+---------
+
+1) Öffne die Datei "signature.htm" im Browser (Chrome/Edge)
+   → Rechtsklick auf die Datei → "Öffnen mit" → Chrome/Edge
+
+2) Im Browser: Strg+A (alles markieren) → Strg+C (kopieren)
+
+3) In Outlook (neu) öffnen:
+   → Oben rechts: Zahnrad-Symbol (Einstellungen)
+   → "E-Mail" → "Verfassen und Antworten"
+   → Unter "E-Mail-Signatur" auf "+ Neue Signatur" klicken
+   → Name eingeben: "ACTIVATED Network"
+   → In das Textfeld klicken → Strg+V (einfügen)
+   → "Speichern" klicken
+
+4) Darunter bei "Standardsignaturen auswählen":
+   → "Für neue Nachrichten" → "ACTIVATED Network"
+   → "Für Antworten/Weiterleitungen" → "ACTIVATED Network"
+   → Speichern
+
+5) Testmail an dich selbst schicken und checken ob alles passt!
+
+WICHTIG:
+--------
+- Dein LinkedIn-Link ist aktuell: linkedin.com/in/nils-puschmann
+  → Falls das nicht stimmt, sag Kevin Bescheid!
+
+============================================
